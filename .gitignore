@@ -3,7 +3,8 @@ logs
 *.log
 npm-debug.log*
 
-lib
+# Don't ignore lib as this is the dist branch
+# lib
 
 # Coverage directory used by tools like istanbul
 coverage
